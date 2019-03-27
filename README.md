@@ -26,3 +26,6 @@ It is recommended to join the [Telegram Desktop Themes Channel](https://t.me/Tel
 
 ## License
 [MIT License](./LICENSE)
+
+## Telegram Theme Collection Number
+Two
