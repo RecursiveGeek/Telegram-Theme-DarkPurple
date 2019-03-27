@@ -1,5 +1,5 @@
 # Telegram Messenger Dark Purple theme 
-> A *Dark Purple Dog Lovers* theme for [Telegram Desktop](https://desktop.telegram.org/).  
+> A **Dark Purple Dog Lovers** theme for [Telegram Desktop](https://desktop.telegram.org/).  
 
 Here is a sample screenshot:
 
@@ -17,7 +17,7 @@ Editing was done using the following:
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Color Highlight extension](https://github.com/sergiirocks/vscode-ext-color-highlight)
 - VS Color Picker (Windows Only) *Still looking for a version that universally works well on Windows, Mac, and Linux platforms*
-= Google Color Picker (Google *color picker* use)
+- Google Color Picker (Google *color picker* use)
 
 The generated *.tdesktop-theme* file is a zip file that contains a full background (*background.jpg*) and a color definition file (*colors.tdesktop-theme*).
 
